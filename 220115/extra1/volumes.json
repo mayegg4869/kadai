@@ -1,0 +1,97 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 4533,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RRiDDAAAQBAJ",
+      "etag": "vMOdOW4wESI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RRiDDAAAQBAJ",
+      "volumeInfo": {
+        "title": "江戸川乱歩 電子全集1　明智小五郎 登場編",
+        "authors": [
+          "江戸川乱歩"
+        ],
+        "publisher": "小学館",
+        "description": "名探偵の冒険は、ここから始まる！乱歩がその作家生活のごく初期に描いた、若き日の明智小五郎。 大正14年に書かれた『D坂の殺人事件』。ここに初めて素人探偵気取りの若き高等遊民として登場するのが、乱歩作品を代表するキャラクターであり、日本で最も有名な探偵の一人、明智小五郎である。初回は、彼が活躍する作品の中からごく初期の10作を、執筆年代順に並べてお届けする。後に変装の名手となり、時に超人的な活躍を見せるヒーロー・明智とはひと味違った、若き日の名探偵の姿をお楽しみいただきたい。また、掲載誌の編集長であった横溝正史の意向で後半大きく作風が変わり、その部分が別のタイトル『白蜥蜴』となった『猟奇の果』については、昭和21年に乱歩が改めて執筆した『もうひとつの結末』も収録。心理戦の面白さで読ませる『心理試験』や怪奇・幻想小説『一寸法師』など、バラエティに富んだラインナップで、まさに乱歩ワールドの入門編ともいうべき内容となっている。他に『黒手組』『幽霊』『屋根裏の散歩者』『蜘蛛男』『何者』を収録。 さらに、初回配信記念として、乱歩の『人間豹』を歌舞伎にアレンジして上演した歌舞伎役者・市川染五郎の特別インタビューを収録。現代のトリックスターが語る乱歩とその作品世界の魅力もまた、一編の物語である。 付録：インタビューとコラム＆フォト＆自筆年譜 【ご注意】※この作品は一部カラー写真が含まれます。",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000035138300100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RRiDDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RRiDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=RRiDDAAAQBAJ&printsec=frontcover&dq=title:%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E4%BD%9C%E5%93%81&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RRiDDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RRiDDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1540,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1540,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RRiDDAAAQBAJ&rdid=book-RRiDDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1540000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1540000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%861_%E6%98%8E%E6%99%BA%E5%B0%8F-sample-epub.acsm?id=RRiDDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9_%E9%9B%BB%E5%AD%90%E5%85%A8%E9%9B%861_%E6%98%8E%E6%99%BA%E5%B0%8F-sample-pdf.acsm?id=RRiDDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RRiDDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "名探偵の冒険は、ここから始まる！乱歩がその作家生活のごく初期に描いた、若き日の明智小五郎。 ..."
+      }
+    }
+  ]
+}
