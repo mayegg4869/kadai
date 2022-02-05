@@ -14,9 +14,9 @@ $extra1_1_title = $arr["items"][2]["volumeInfo"]["title"];
 $extra1_1_authors = $arr["items"][2]["volumeInfo"]["authors"][0];
 $extra1_1_pagecount = $arr["items"][2]["volumeInfo"]["pageCount"];
 
-$extra1_2_title = $arr["items"][3]["volumeInfo"]["title"];
-$extra1_2_published = $arr["items"][3]["volumeInfo"]["publishedDate"];
-$extra1_2_previewLink = $arr["items"][3]["volumeInfo"]["previewLink"];
+$extra1_2_title = $arr["items"][9]["volumeInfo"]["title"];
+$extra1_2_published = $arr["items"][9]["volumeInfo"]["publishedDate"];
+$extra1_2_previewLink = $arr["items"][9]["volumeInfo"]["previewLink"];
 
 echo "extra1-1<br>";
 echo "タイトル： $extra1_1_title <br>";
