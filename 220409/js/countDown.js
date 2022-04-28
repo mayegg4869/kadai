@@ -89,6 +89,9 @@ if(count_txt[0] <= 3){
     if(end_time <= now_date){
         // 発売中
         notice.innerHTML = '<img src="img/now_on_sale.png">'
+    } else if (count_txt[0] <= 0) {
+        // あと0日
+        notice.innerHTML = '<img src="img/last_0.png">'
     } else if(count_txt[0] <= 1){
         // あと1日
         notice.innerHTML = '<img src="img/last_1.png">'
