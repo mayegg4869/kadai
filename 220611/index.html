@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
     <title>フォトギャラリー</title>
     <!-- LightBox -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -152,7 +152,8 @@
     .gallery{
         margin: 0 auto;
         padding: 3em;
-        width: 790px;
+        min-width: 75%;
+        max-width: 790px;
         background-color: rgb(244, 244, 244);
     }
     .bxslider_thumbnail a img {
@@ -166,6 +167,13 @@
     opacity: 1;
     transition: 0.3s;
     }
+
+    
+    @media screen and (max-width: 790px) { /*ウィンドウ幅が767px以上の場合に適用*/
+        .gallery{
+        padding: 0.5em;
+        }
+}
 
 </style>
 <script type="text/javascript">
