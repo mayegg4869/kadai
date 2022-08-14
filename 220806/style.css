@@ -77,17 +77,8 @@
     margin-left: -100px;
 }
 
-.card_01:hover {
-    z-index: 100;
-}
-.card_02:hover {
-    z-index: 100;
-}
-.card_03:hover {
-    z-index: 100;
-}
-
 .card_wrap:hover {
+    z-index: 100;
     padding-top: 0px;
     padding-bottom: 50px;
     transition: 0.5s;
