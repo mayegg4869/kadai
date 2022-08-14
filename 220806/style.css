@@ -11,39 +11,13 @@
     position: relative;
 }
 
-.contents_2nd{
-    background-color: rgb(237, 227, 208);
-    height: 500px;
-    position: relative;
-}
-.contents_2nd img{
-    width: 400px;
-    height: auto;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.contents_3rd{
-    background-color: rgb(206, 255, 239);
-    height: 500px;
-    position: relative;
-}
-.contents_3rd p{
-    height: auto;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
 .card_wrap {
     position: relative;
     padding-top: 50px;
     padding-bottom: 0px;
     height: 270px;
     width: 220px;
+    transition: 0.5s;
 }
 
 .card {
@@ -81,7 +55,6 @@
     z-index: 100;
     padding-top: 0px;
     padding-bottom: 50px;
-    transition: 0.5s;
 }
 
 
